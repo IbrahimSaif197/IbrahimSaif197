@@ -1,2 +1,3 @@
-# Hi there, I'm Ibrahim Saif! 👋
-Learing Java Currently
+# Ibrahim Saif
+Rising Programmer
+Learning Java Currently
